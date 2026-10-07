@@ -1,0 +1,39 @@
+{
+    "historico": [
+        {
+            "codigo": 101,
+            "descricao": "Caneta Azul",
+            "valorAntigo": 150,
+            "valorNovo": 175,
+            "data": "06/10/2026"
+        },
+        {
+            "codigo": 102,
+            "descricao": "Caderno",
+            "valorAntigo": 75,
+            "valorNovo": 50,
+            "data": "06/10/2026"
+        },
+        {
+            "codigo": 101,
+            "descricao": "Caneta Azul",
+            "valorAntigo": 290,
+            "valorNovo": 412,
+            "data": "06/10/2026 22:20:04"
+        },
+        {
+            "codigo": 101,
+            "descricao": "Caneta Azul",
+            "valorAntigo": 412,
+            "valorNovo": 424,
+            "data": "06/10/2026 22:20:51"
+        },
+        {
+            "codigo": 113,
+            "descricao": "Régua 50cm",
+            "valorAntigo": 70,
+            "valorNovo": 60,
+            "data": "06/10/2026 23:14:59"
+        }
+    ]
+}

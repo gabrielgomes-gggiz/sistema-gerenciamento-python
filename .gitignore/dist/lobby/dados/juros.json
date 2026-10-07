@@ -1,0 +1,39 @@
+{
+    "dividas": [
+        {
+            "id": 1,
+            "valor": 187.5,
+            "vencimento": "2026-10-01"
+        },
+        {
+            "id": 2,
+            "valor": 119.9,
+            "vencimento": "2026-10-04"
+        },
+        {
+            "id": 3,
+            "valor": 850.0,
+            "vencimento": "2026-10-07"
+        },
+        {
+            "id": 4,
+            "valor": 59.9,
+            "vencimento": "2026-10-12"
+        },
+        {
+            "id": 5,
+            "valor": 1500.0,
+            "vencimento": "2026-10-15"
+        },
+        {
+            "id": 6,
+            "valor": 39.9,
+            "vencimento": "2026-09-20"
+        },
+        {
+            "id": 12,
+            "valor": 123444.0,
+            "vencimento": "2026-10-02"
+        }
+    ]
+}

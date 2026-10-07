@@ -1,0 +1,254 @@
+{
+    "estoque": [
+        {
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "estoque": 10435
+        },
+        {
+            "codigoProduto": 102,
+            "descricaoProduto": "Caderno Universitário",
+            "estoque": 75
+        },
+        {
+            "codigoProduto": 103,
+            "descricaoProduto": "Borracha Branca",
+            "estoque": 200
+        },
+        {
+            "codigoProduto": 104,
+            "descricaoProduto": "Lápis Preto HB",
+            "estoque": 320
+        },
+        {
+            "codigoProduto": 105,
+            "descricaoProduto": "Marcador de Texto Amarelo",
+            "estoque": 90
+        },
+        {
+            "codigoProduto": 106,
+            "descricaoProduto": "Caneta Preta",
+            "estoque": 180
+        },
+        {
+            "codigoProduto": 107,
+            "descricaoProduto": "Caneta Vermelha",
+            "estoque": 125
+        },
+        {
+            "codigoProduto": 108,
+            "descricaoProduto": "Lápis de Cor - 12 Cores",
+            "estoque": 85
+        },
+        {
+            "codigoProduto": 109,
+            "descricaoProduto": "Lápis de Cor - 24 Cores",
+            "estoque": 60
+        },
+        {
+            "codigoProduto": 110,
+            "descricaoProduto": "Apontador Simples",
+            "estoque": 240
+        },
+        {
+            "codigoProduto": 111,
+            "descricaoProduto": "Apontador com Depósito",
+            "estoque": 135
+        },
+        {
+            "codigoProduto": 112,
+            "descricaoProduto": "Régua 30cm",
+            "estoque": 110
+        },
+        {
+            "codigoProduto": 113,
+            "descricaoProduto": "Régua 50cm",
+            "estoque": 60
+        },
+        {
+            "codigoProduto": 114,
+            "descricaoProduto": "Tesoura Escolar",
+            "estoque": 95
+        },
+        {
+            "codigoProduto": 115,
+            "descricaoProduto": "Cola Bastão",
+            "estoque": 160
+        },
+        {
+            "codigoProduto": 116,
+            "descricaoProduto": "Cola Líquida 90g",
+            "estoque": 140
+        },
+        {
+            "codigoProduto": 117,
+            "descricaoProduto": "Fita Adesiva Transparente",
+            "estoque": 210
+        },
+        {
+            "codigoProduto": 118,
+            "descricaoProduto": "Fita Dupla Face",
+            "estoque": 80
+        },
+        {
+            "codigoProduto": 119,
+            "descricaoProduto": "Grampeador Pequeno",
+            "estoque": 55
+        },
+        {
+            "codigoProduto": 120,
+            "descricaoProduto": "Grampeador Grande",
+            "estoque": 35
+        },
+        {
+            "codigoProduto": 121,
+            "descricaoProduto": "Caixa de Grampos",
+            "estoque": 300
+        },
+        {
+            "codigoProduto": 122,
+            "descricaoProduto": "Clips Pequeno - 100un",
+            "estoque": 275
+        },
+        {
+            "codigoProduto": 123,
+            "descricaoProduto": "Clips Grande - 100un",
+            "estoque": 190
+        },
+        {
+            "codigoProduto": 124,
+            "descricaoProduto": "Papel A4 - 500 Folhas",
+            "estoque": 45
+        },
+        {
+            "codigoProduto": 125,
+            "descricaoProduto": "Papel A4 Colorido",
+            "estoque": 65
+        },
+        {
+            "codigoProduto": 126,
+            "descricaoProduto": "Papel Cartolina Branca",
+            "estoque": 100
+        },
+        {
+            "codigoProduto": 127,
+            "descricaoProduto": "Papel Cartolina Colorida",
+            "estoque": 120
+        },
+        {
+            "codigoProduto": 128,
+            "descricaoProduto": "Post-it Amarelo",
+            "estoque": 175
+        },
+        {
+            "codigoProduto": 129,
+            "descricaoProduto": "Post-it Colorido",
+            "estoque": 130
+        },
+        {
+            "codigoProduto": 130,
+            "descricaoProduto": "Marcador Permanente Preto",
+            "estoque": 90
+        },
+        {
+            "codigoProduto": 131,
+            "descricaoProduto": "Marcador Permanente Vermelho",
+            "estoque": 75
+        },
+        {
+            "codigoProduto": 132,
+            "descricaoProduto": "Quadro Branco Pequeno",
+            "estoque": 25
+        },
+        {
+            "codigoProduto": 133,
+            "descricaoProduto": "Quadro Branco Grande",
+            "estoque": 15
+        },
+        {
+            "codigoProduto": 134,
+            "descricaoProduto": "Apagador para Quadro",
+            "estoque": 50
+        },
+        {
+            "codigoProduto": 135,
+            "descricaoProduto": "Caderno de Desenho",
+            "estoque": 80
+        },
+        {
+            "codigoProduto": 136,
+            "descricaoProduto": "Caderno Espiral",
+            "estoque": 95
+        },
+        {
+            "codigoProduto": 137,
+            "descricaoProduto": "Caderno Executivo",
+            "estoque": 60
+        },
+        {
+            "codigoProduto": 138,
+            "descricaoProduto": "Pasta Plástica",
+            "estoque": 145
+        },
+        {
+            "codigoProduto": 139,
+            "descricaoProduto": "Pasta Sanfonada",
+            "estoque": 70
+        },
+        {
+            "codigoProduto": 140,
+            "descricaoProduto": "Pasta Catálogo",
+            "estoque": 55
+        },
+        {
+            "codigoProduto": 141,
+            "descricaoProduto": "Envelope Branco",
+            "estoque": 250
+        },
+        {
+            "codigoProduto": 142,
+            "descricaoProduto": "Envelope Pardo",
+            "estoque": 180
+        },
+        {
+            "codigoProduto": 143,
+            "descricaoProduto": "Calculadora Básica",
+            "estoque": 40
+        },
+        {
+            "codigoProduto": 144,
+            "descricaoProduto": "Calculadora Científica",
+            "estoque": 20
+        },
+        {
+            "codigoProduto": 145,
+            "descricaoProduto": "Agenda 2026",
+            "estoque": 35
+        },
+        {
+            "codigoProduto": 146,
+            "descricaoProduto": "Calendário de Mesa",
+            "estoque": 50
+        },
+        {
+            "codigoProduto": 147,
+            "descricaoProduto": "Organizador de Mesa",
+            "estoque": 30
+        },
+        {
+            "codigoProduto": 148,
+            "descricaoProduto": "Estojo Escolar",
+            "estoque": 85
+        },
+        {
+            "codigoProduto": 149,
+            "descricaoProduto": "Corretivo Líquido",
+            "estoque": 115
+        },
+        {
+            "codigoProduto": 150,
+            "descricaoProduto": "Corretivo em Fita",
+            "estoque": 95
+        }
+    ]
+}
